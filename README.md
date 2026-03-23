@@ -1,10 +1,11 @@
 # Electrical Engineering Basic Converter
 A simple CLI tool that performs simple electrical engineering calculations.
 ## What does it do?
--Uses Ohm's law to find voltage,current & resistance.
--Calculates the equivalent resistance for 2 parallel resistors.
--Conversion between frequency and period.
--Conversion from RMS value to Peak voltage.
+-Uses Ohm's law to find voltage,current & resistance.<br>
+-Calculates the equivalent resistance for 2 parallel resistors.<br>
+-Conversion between frequency and period.<br>
+-Conversion from RMS value to Peak voltage.<br>
+-Calculation of the complex impedance.<br>
 
 ## how to run ?
 #### Linux:
