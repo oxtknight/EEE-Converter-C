@@ -1,5 +1,5 @@
 # Electrical Engineering Basic Converter
-A simple cli tool that performs simple electrical engineering calculations.
+A simple CLI tool that performs simple electrical engineering calculations.
 ## What does it do?
 -Uses Ohm's law to find voltage,current & resistance.
 -Calculates the equivalent resistance for 2 parallel resistors.
