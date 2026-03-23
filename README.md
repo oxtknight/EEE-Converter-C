@@ -8,11 +8,11 @@ A simple cli tool that performs simple electrical engineering calculations.
 
 ## how to run ?
 #### Linux:
-1-Clone the repo:
-  `git clone https://github.com/oxtknight/EEE-Converter-C` 
-2-Compile:
-  `gcc main.c -lm -o eee-conv`
-3-Run: 
-  `./eee-conv`
+1-Clone the repo:<br>
+  `git clone https://github.com/oxtknight/EEE-Converter-C`<br>
+2-Compile:<br>
+  `gcc main.c -lm -o eee-conv` <br>
+3-Run: <br>
+  `./eee-conv`<br>
 ## Note:
 will add more features like calculating admittance soon :)
